@@ -1,5 +1,11 @@
-requests
-pandas 
-numpy 
-matplotlib
-scipy
+requests>=2.31
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.12
+statsmodels>=0.14
+scikit-learn>=1.4
+jupyter>=1.0
+ipykernel>=6.29
+ipywidgets>=8.1
